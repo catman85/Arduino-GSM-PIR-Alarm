@@ -1,7 +1,7 @@
 
 # Arduino GSM PIR Alarm
 
-[![GitHub stars](https://img.shields.io/github/stars/catman85/Arduino-GSM-PIR-Alarm.svg)](https://github.com/catman85/Arduino-GSM-PIR-Alarm/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/catman85/Arduino-GSM-PIR-Alarm.svg)](https://github.com/catman85/Arduino-GSM-PIR-Alarm/stargazers)]
 
 ## Setup
 - Extract the following [library](https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield "library") to your arduino/libraries folder.
